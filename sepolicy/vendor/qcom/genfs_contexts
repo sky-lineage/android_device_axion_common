@@ -1,0 +1,1 @@
+genfscon sysfs /class/kgsl/kgsl-3d0/max_gpuclk                                u:object_r:vendor_sysfs_kgsl_max_gpuclk:s0
